@@ -13,6 +13,7 @@ frontBack("ab") → "ba"
 
 public class task11 {
     public static void main(String[] args) {
+        int test2;
         String test = "jane";
         frontBack(test);
     }
